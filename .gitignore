@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+pnyserver/.env
+pnyclient/.env
+
+# Build outputs
+dist/
+build/
+/.next/
+
+# Vite
+/.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# pictures
+pnyserver/project pic/
+pnyserver/uploads/
